@@ -13,7 +13,7 @@ Discord based game!
 - Golang
  
 ## General information
-This project is a **original** Discord bot that is also a game.
+This project is a original Discord bot that is also a game.
 
 ## Game content
 
